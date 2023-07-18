@@ -15,6 +15,9 @@ token_url = "https://www.bungie.net/platform/app/oauth/token"
 # on. 1 - Xbox, 2- Playstation, 3 - Steam
 # destinyMembershipId: The actual user account
 # characterId: The specific character (Titan/Warlock/Hunter) that is used by the membership account
+
+# Next step in development is to ask who and what to look at. May set it up to look at all available character data rather than just a single character.
+
 # Man in the Moon - Connor
 membershipType = 1
 destinyMembershipId = 4611686018450697084
